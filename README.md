@@ -1,2 +1,4 @@
 # curso-cSharp
-Códigos de apredizado de lógica da programação com base em C#
+Códigos básicos e lógica da programação com C#
+
+Basic Codes and Programming Logic with C #
