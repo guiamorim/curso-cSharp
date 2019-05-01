@@ -1,0 +1,10 @@
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1019 - conversaoTempo\URI1019 - conversaoTempo\obj\Debug\netcoreapp2.1\URI1019 - conversaoTempo.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1019 - conversaoTempo\URI1019 - conversaoTempo\obj\Debug\netcoreapp2.1\URI1019 - conversaoTempo.AssemblyInfoInputs.cache
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1019 - conversaoTempo\URI1019 - conversaoTempo\obj\Debug\netcoreapp2.1\URI1019 - conversaoTempo.AssemblyInfo.cs
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1019 - conversaoTempo\URI1019 - conversaoTempo\bin\Debug\netcoreapp2.1\URI1019 - conversaoTempo.deps.json
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1019 - conversaoTempo\URI1019 - conversaoTempo\bin\Debug\netcoreapp2.1\URI1019 - conversaoTempo.runtimeconfig.json
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1019 - conversaoTempo\URI1019 - conversaoTempo\bin\Debug\netcoreapp2.1\URI1019 - conversaoTempo.runtimeconfig.dev.json
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1019 - conversaoTempo\URI1019 - conversaoTempo\bin\Debug\netcoreapp2.1\URI1019 - conversaoTempo.dll
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1019 - conversaoTempo\URI1019 - conversaoTempo\bin\Debug\netcoreapp2.1\URI1019 - conversaoTempo.pdb
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1019 - conversaoTempo\URI1019 - conversaoTempo\obj\Debug\netcoreapp2.1\URI1019 - conversaoTempo.dll
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1019 - conversaoTempo\URI1019 - conversaoTempo\obj\Debug\netcoreapp2.1\URI1019 - conversaoTempo.pdb

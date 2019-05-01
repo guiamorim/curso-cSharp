@@ -1,0 +1,11 @@
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1012 - Geometria\URI1012 - Geometria\bin\Debug\netcoreapp2.1\URI1012 - Geometria.deps.json
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1012 - Geometria\URI1012 - Geometria\bin\Debug\netcoreapp2.1\URI1012 - Geometria.runtimeconfig.json
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1012 - Geometria\URI1012 - Geometria\bin\Debug\netcoreapp2.1\URI1012 - Geometria.runtimeconfig.dev.json
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1012 - Geometria\URI1012 - Geometria\bin\Debug\netcoreapp2.1\URI1012 - Geometria.dll
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1012 - Geometria\URI1012 - Geometria\bin\Debug\netcoreapp2.1\URI1012 - Geometria.pdb
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1012 - Geometria\URI1012 - Geometria\obj\Debug\netcoreapp2.1\URI1012 - Geometria.csprojAssemblyReference.cache
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1012 - Geometria\URI1012 - Geometria\obj\Debug\netcoreapp2.1\URI1012 - Geometria.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1012 - Geometria\URI1012 - Geometria\obj\Debug\netcoreapp2.1\URI1012 - Geometria.AssemblyInfoInputs.cache
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1012 - Geometria\URI1012 - Geometria\obj\Debug\netcoreapp2.1\URI1012 - Geometria.AssemblyInfo.cs
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1012 - Geometria\URI1012 - Geometria\obj\Debug\netcoreapp2.1\URI1012 - Geometria.dll
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1012 - Geometria\URI1012 - Geometria\obj\Debug\netcoreapp2.1\URI1012 - Geometria.pdb

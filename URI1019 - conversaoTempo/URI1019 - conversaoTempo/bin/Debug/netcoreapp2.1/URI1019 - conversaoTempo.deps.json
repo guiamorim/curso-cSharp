@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "URI1019 - conversaoTempo/1.0.0": {
+        "runtime": {
+          "URI1019 - conversaoTempo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "URI1019 - conversaoTempo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

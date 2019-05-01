@@ -1,0 +1,11 @@
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1020 - mod\URI1020 - mod\bin\Debug\netcoreapp2.1\URI1020 - mod.deps.json
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1020 - mod\URI1020 - mod\bin\Debug\netcoreapp2.1\URI1020 - mod.runtimeconfig.json
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1020 - mod\URI1020 - mod\bin\Debug\netcoreapp2.1\URI1020 - mod.runtimeconfig.dev.json
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1020 - mod\URI1020 - mod\bin\Debug\netcoreapp2.1\URI1020 - mod.dll
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1020 - mod\URI1020 - mod\bin\Debug\netcoreapp2.1\URI1020 - mod.pdb
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1020 - mod\URI1020 - mod\obj\Debug\netcoreapp2.1\URI1020 - mod.csprojAssemblyReference.cache
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1020 - mod\URI1020 - mod\obj\Debug\netcoreapp2.1\URI1020 - mod.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1020 - mod\URI1020 - mod\obj\Debug\netcoreapp2.1\URI1020 - mod.AssemblyInfoInputs.cache
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1020 - mod\URI1020 - mod\obj\Debug\netcoreapp2.1\URI1020 - mod.AssemblyInfo.cs
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1020 - mod\URI1020 - mod\obj\Debug\netcoreapp2.1\URI1020 - mod.dll
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\URI1020 - mod\URI1020 - mod\obj\Debug\netcoreapp2.1\URI1020 - mod.pdb

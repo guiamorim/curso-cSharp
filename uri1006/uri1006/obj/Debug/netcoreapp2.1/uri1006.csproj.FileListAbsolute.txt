@@ -1,0 +1,10 @@
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\uri1006\uri1006\bin\Debug\netcoreapp2.1\uri1006.deps.json
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\uri1006\uri1006\bin\Debug\netcoreapp2.1\uri1006.runtimeconfig.json
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\uri1006\uri1006\bin\Debug\netcoreapp2.1\uri1006.runtimeconfig.dev.json
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\uri1006\uri1006\bin\Debug\netcoreapp2.1\uri1006.dll
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\uri1006\uri1006\bin\Debug\netcoreapp2.1\uri1006.pdb
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\uri1006\uri1006\obj\Debug\netcoreapp2.1\uri1006.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\uri1006\uri1006\obj\Debug\netcoreapp2.1\uri1006.AssemblyInfoInputs.cache
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\uri1006\uri1006\obj\Debug\netcoreapp2.1\uri1006.AssemblyInfo.cs
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\uri1006\uri1006\obj\Debug\netcoreapp2.1\uri1006.dll
+C:\Users\guilh\Downloads\Courses\Curso de Lógica da programação\URI - Testes\uri1006\uri1006\obj\Debug\netcoreapp2.1\uri1006.pdb
